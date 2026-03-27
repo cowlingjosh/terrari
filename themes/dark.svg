@@ -8,11 +8,11 @@
       }
 
       .st1 {
-        fill: #3f1c00;
+        fill: #cb0731;
       }
 
       .st2 {
-        fill: #6a002c;
+        fill: #3f1c00;
       }
 
       .st3 {
@@ -24,21 +24,21 @@
       }
     </style>
   </defs>
-  <rect class="st0" x="0" width="960" height="560"/>
-  <rect class="st2" x="0" y="359.06" width="960" height="13"/>
-  <rect class="st2" x="0" y="355" width="960" height="2"/>
-  <rect class="st2" x="0" y="312" width="960" height="35"/>
-  <rect class="st2" x="0" y="245" width="960" height="62"/>
-  <rect class="st2" x="0" y="352.09" width="960" height="1"/>
-  <rect class="st4" x="0" y="81" width="960" height="22"/>
-  <rect class="st1" x="0" y="145" width="960" height="33"/>
-  <rect class="st4" x="0" y="108" width="960" height="11"/>
-  <rect class="st4" x="0" y="122" width="960" height="4"/>
-  <rect class="st1" x="0" y="197" width="960" height="2"/>
-  <rect class="st1" x="0" y="189" width="960" height="4"/>
-  <rect class="st1" x="0" y="182" width="960" height="4"/>
-  <rect class="st4" x="0" y="76" width="960" height="4"/>
+  <rect class="st0" width="960" height="560"/>
+  <rect class="st1" y="359.06" width="960" height="13"/>
+  <rect class="st1" y="355" width="960" height="2"/>
+  <rect class="st1" y="312" width="960" height="35"/>
+  <rect class="st1" y="245" width="960" height="62"/>
+  <rect class="st1" y="352.09" width="960" height="1"/>
+  <rect class="st4" y="81" width="960" height="22"/>
+  <rect class="st2" y="145" width="960" height="33"/>
+  <rect class="st4" y="108" width="960" height="11"/>
+  <rect class="st4" y="122" width="960" height="4"/>
+  <rect class="st2" y="197" width="960" height="2"/>
+  <rect class="st2" y="189" width="960" height="4"/>
+  <rect class="st2" y="182" width="960" height="4"/>
+  <rect class="st4" y="76" width="960" height="4"/>
   <rect class="st3" y="468" width="960" height="94"/>
   <rect class="st3" y="443" width="960" height="19"/>
-  <rect class="st3" x="0" y="429.62" width="960" height="7.37"/>
+  <rect class="st3" y="429.62" width="960" height="7.37"/>
 </svg>
