@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/madaba.jpg" alt="Madaba Map" width="300"/>
-
-# `terraric`
+# `terrarico`
 
 </div>
 
@@ -12,25 +10,16 @@ An operating system of sorts, but more importantly, an apology.
 
 As a hint of things to come, the name originally comes from a mixture of _terra_ and _mosaic_.
 _terraic_ didn't sound right so I added an extra 'r', partly just to make the child inside of me who still loves dinosaurs happy.
+I then wanted a sick domain name, found `terrari.co` and thus `terrarico` was born.
 
 ## Identity
 
 The visual identity of this project is still very much a work in progress.
-That being said, I have come up with rough colour palettes for the light and dark themes.
-I have no idea if they will actually work as themes though.
+That being said, I have come up with a rough colour palette.
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="themes/light.svg" width="300"/><br/>
-      Light Mode
-    </td>
-    <td align="center">
-      <img src="themes/dark.svg" width="300"/><br/>
-      Dark Mode
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="art/palette.svg" width="600"/>
+</div>
 
 ## Roadmap
 
